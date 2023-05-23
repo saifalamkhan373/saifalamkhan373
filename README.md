@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifalamkhan373&label=Profile%20views&color=0e75b6&style=flat" alt="saifalamkhan373" /> </p>
 
-- 💬 Ask me about **Web Development, Networking**
+- 💬 Ask me about **Software Development, Java, Data Structure & Algorithms and Networking**
 
 - 📫 How to reach me **saifalamkhan56@gmail.com**
 
