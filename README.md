@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifalamkhan373&label=Profile%20views&color=0e75b6&style=flat" alt="saifalamkhan373" /> </p>
 
-- 💬 Ask me about **ERP, Database, Java, Data Structure & Algorithms and Networking**
+- 💬 Ask me about **ERP System, Databases, JavaScript, Data Structure & Algorithms and Networking**
 
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
